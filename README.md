@@ -8,4 +8,8 @@ A basic and simple calculator
 
 Python 3x
 
-Tk
+Tkinter library
+
+**Final Output**
+
+
